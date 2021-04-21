@@ -1,0 +1,2 @@
+export PATH=$(pwd)/bin:$PATH
+ES="127.0.0.1:9200"
